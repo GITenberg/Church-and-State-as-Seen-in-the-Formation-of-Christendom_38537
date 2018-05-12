@@ -1,0 +1,32 @@
+_repo: Church-and-State-as-Seen-in-the-Formation-of-Christendom_38537
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allies, T. W. (Thomas William)
+    aliases:
+    - Allies, Thomas William
+    - Allies, Thomas W.
+    birthdate: 1813
+    deathdate: 1903
+    gutenberg_agent_id: '33803'
+    url: http://www.gutenberg.org/2009/agents/33803
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_William_Allies
+description: ''
+gutenberg_issued: '2012-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church and state'
+- !lcsh 'Religion and state'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcc 'BV'
+title: Church and State as Seen in the Formation of Christendom
+url: http://www.gutenberg.org/ebooks/38537
